@@ -12,5 +12,13 @@
 
 ## Estou Apredendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="80"/><img
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80"/><img
+                                                                                                                           
+ 
+## Painel
+<div>    
+<a href= "https://github..com/fafismito">
+<div> <a href="https://github.com/fafismito"> <img height="180em"          
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafismito&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=fafismito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>                                                                                                                                 
